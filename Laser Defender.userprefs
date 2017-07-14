@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Entity\EnemyFormation\FormationController.cs">
+    <Files>
+      <File FileName="Assets\Entity\enemy\EnemyBehaviour.cs" Line="29" Column="25" />
+      <File FileName="Assets\Entity\player\PlayerController.cs" Line="24" Column="71" />
+      <File FileName="Assets\scripts\LevelManager.cs" Line="19" Column="2" />
+      <File FileName="Assets\Entity\EnemyFormation\FormationController.cs" Line="88" Column="5" />
+      <File FileName="Assets\HealthSprite.cs" Line="13" Column="2" />
+      <File FileName="Assets\PlayerFormation.cs" Line="34" Column="3" />
+      <File FileName="Assets\Entity\player\Projectile.cs" Line="13" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
